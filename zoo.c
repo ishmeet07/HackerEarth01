@@ -1,3 +1,4 @@
+//HACKER EARTH PROGRAM ZOO (EASY)
 #include <stdio.h>
 
 int main(){
