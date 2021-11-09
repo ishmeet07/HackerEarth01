@@ -1,4 +1,4 @@
-
+// this is made by ishmeet singh
 // split houses hacker earth
 #include <stdio.h>
 
