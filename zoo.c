@@ -1,3 +1,4 @@
+// this is made by ishmeet singh
 //HACKER EARTH PROGRAM ZOO (EASY)
 #include <stdio.h>
 
