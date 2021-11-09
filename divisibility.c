@@ -1,3 +1,5 @@
+//this is made by ishmeet singh
+// this is divisibility code on hacker earth
 #include <stdio.h>
 
 int main(){
