@@ -43,7 +43,7 @@ int main()
 						break;
 				case 9:  k+=6;
 	 					break; 
-        		default:printf("wron");
+        		default:printf("wrong");
 		 
 			} 
         }
